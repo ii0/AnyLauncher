@@ -14,7 +14,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.tumuyan.fixedplay.App.Item;
-import com.tumuyan.fixedplay.R;
+//import com.tumuyan.fixedplay.R;
+import AnyLauncher.R;
 import com.tumuyan.fixedplay.SettingActivity;
 
 import java.util.List;

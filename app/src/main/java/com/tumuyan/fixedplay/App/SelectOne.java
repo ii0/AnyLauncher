@@ -27,7 +27,8 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.tumuyan.fixedplay.MainActivity;
-import com.tumuyan.fixedplay.R;
+//import com.tumuyan.fixedplay.R;
+import AnyLauncher.R;
 
 import java.io.File;
 import java.util.ArrayList;

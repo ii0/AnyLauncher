@@ -26,6 +26,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+import AnyLauncher.R;
+
 public class SettingActivity extends Activity {
     PackageManager packageManager;
 

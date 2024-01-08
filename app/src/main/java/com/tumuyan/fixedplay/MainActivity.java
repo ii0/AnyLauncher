@@ -20,6 +20,8 @@ import com.bumptech.glide.Glide;
 
 import java.io.File;
 
+import AnyLauncher.R;
+
 public class MainActivity extends Activity {
 
     PackageManager packageManager;

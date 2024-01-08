@@ -25,7 +25,8 @@ import android.widget.Toast;
 import com.tumuyan.fixedplay.App.Item;
 import com.tumuyan.fixedplay.App.ItemAdapter;
 import com.tumuyan.fixedplay.App.SelectOne;
-import com.tumuyan.fixedplay.R;
+//import com.tumuyan.fixedplay.R;
+import AnyLauncher.R;
 import com.tumuyan.fixedplay.SettingActivity;
 
 import java.io.File;

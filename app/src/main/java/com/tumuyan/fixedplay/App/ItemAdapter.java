@@ -14,12 +14,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.tumuyan.fixedplay.R;
+//import com.tumuyan.fixedplay.R;
 import com.tumuyan.fixedplay.SettingActivity;
 
 import java.util.List;
 
 import static android.content.Context.MODE_MULTI_PROCESS;
+
+import AnyLauncher.R;
 
 
 /**
